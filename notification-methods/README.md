@@ -17,3 +17,7 @@ A league commissioner can rain out games by field site via the web interface.
 When that happens, another asynchronous job handles marking the games as rained out
 and then notifying players who have notification methods set. The game cancellations 
 Sidekiq worker can be found in `workers/game_cancellation_worker.rb`. 
+
+-----
+The full rec-sports league repository is open source and 
+[located on GitHub](https://github.com/AFDC/Platinum).
