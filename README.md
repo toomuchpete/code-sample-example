@@ -9,6 +9,5 @@ internship used with permission.
 
 
 -----
-_Note: this repository contains code that I wrote, but it's not intended
-to be **my** code sample. It's just an example of what a junior engineer's
-code sample might look like._
+_Note: this repository contains code written by [Pete Holiday](https://github.com/toomuchpete), 
+but it's just an example of what a junior engineer's code sample might look like._
