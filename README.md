@@ -18,5 +18,6 @@ internship used with permission.
    sample demonstrates the use of asynchronous jobs and external APIs. 
 
 -----
-_Note: this repository contains code written by [Pete Holiday](https://github.com/toomuchpete), 
-but it's just an example of what a junior engineer's code sample might look like._
+_Note: Jordan Smith is not a real person. This repository is just an example of 
+what a junior engineer's code sample might look like. All code was written by
+its committer._
