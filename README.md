@@ -11,6 +11,11 @@ internship used with permission.
    have to calculate the new league rankings after each week's games. The website is  
    written in Ruby on Rails and the code runs in a nightly job. It's a good example
    of my understanding of separation of concerns in an Object-Oriented application.
+ 
+2. **Sports League Rainout Notifications** -- For that same league, we send  
+   notifications by text or email when a player's game is rained out. We want  
+   to make them confirm the phone number or email address in most cases. This  
+   sample demonstrates the use of asynchronous jobs and external APIs. 
 
 -----
 _Note: this repository contains code written by [Pete Holiday](https://github.com/toomuchpete), 
